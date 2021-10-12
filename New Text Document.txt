@@ -1,0 +1,113 @@
+
+<!-- Product cart -->
+<section class="testimonial">
+      <!-- featyre product carousel -->
+      <h2 class="text-center text-uppercase">testimonials</h2>
+      <h1 class="text-center text-capitalize mt-3">What our valuable clients say</h1>
+
+
+      <div class="container">
+            <div class="row ">
+              <div class="col-12">
+                <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+
+                  <div class="carousel-inner">
+                    <div class="carousel-item active">
+                     <div class="row my-5">
+                       <div class="col-6 box row d-flex justify-content-center">
+                      <img class="carousel-img col-12" src="img/seoicon.png" alt="">
+                        <h3 class="text-center">Rownok Mahbub.</h3>
+                        <p class="text-center">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, maxime?</p>
+                        <div class="row text-center">
+                              <ul>
+                                <li style="list-style: none; color:#FFAE34;">
+                                 <i class="fas fa-star"></i>
+                                 <i class="fas fa-star"></i>
+                                 <i class="fas fa-star"></i>
+                                 <i class="fas fa-star-half-alt"></i>
+                                 <i class="far fa-star"></i>
+
+                                </li>
+                              </ul>
+                             </div>
+                       </div>
+                       
+                       <div class="col-6 box row d-flex justify-content-center">
+                        <img class="carousel-img col-12" src="img/seoicon.png" alt="">
+                          <h3 class="text-center">Rownok Mahbub.</h3>
+                          <p class="text-center">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, maxime?</p>
+                          <div class="row text-center">
+                                <ul>
+                                  <li style="list-style: none; color:#FFAE34;">
+                                   <i class="fas fa-star"></i>
+                                   <i class="fas fa-star"></i>
+                                   <i class="fas fa-star"></i>
+                                   <i class="fas fa-star-half-alt"></i>
+                                   <i class="far fa-star"></i>
+  
+                                  </li>
+                                </ul>
+                               </div>
+                         </div>
+                     </div>
+                    </div>
+
+
+
+                    <div class="carousel-item">
+                        <div class="row my-5">
+                              <div class="col-6 box row d-flex justify-content-center">
+                             <img class="carousel-img col-12" src="img/seoicon.png" alt="">
+                               <h3 class="text-center">Rownok Mahbub.</h3>
+                               <p class="text-center">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, maxime?</p>
+                               <div class="row text-center">
+                                     <ul>
+                                       <li style="list-style: none; color:#FFAE34;">
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star-half-alt"></i>
+                                        <i class="far fa-star"></i>
+       
+                                       </li>
+                                     </ul>
+                                    </div>
+                              </div>
+                              
+                              <div class="col-6 box row d-flex justify-content-center">
+                               <img class="carousel-img col-12" src="img/seoicon.png" alt="">
+                                 <h3 class="text-center">Rownok Mahbub.</h3>
+                                 <p class="text-center">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, maxime?</p>
+                                 <div class="row text-center">
+                                       <ul>
+                                         <li style="list-style: none; color:#FFAE34;">
+                                          <i class="fas fa-star"></i>
+                                          <i class="fas fa-star"></i>
+                                          <i class="fas fa-star"></i>
+                                          <i class="fas fa-star-half-alt"></i>
+                                          <i class="far fa-star"></i>
+         
+                                         </li>
+                                       </ul>
+                                      </div>
+                                </div>
+                            </div>
+
+                      
+                     </div>
+                </div>
+
+                <button class="carousel-control-prev pr" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                   <i class="far fa-arrow-alt-circle-left pr" aria-hidden="true"></i>
+                
+                  <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next ne" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                  <i class="far fa-arrow-alt-circle-right ne" aria-hidden="true"></i>
+                  <span class="visually-hidden">Next</span>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+</section>
